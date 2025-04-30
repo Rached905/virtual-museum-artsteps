@@ -15,7 +15,7 @@ This is an **academic project** created using [Artsteps](https://www.artsteps.co
 
 ## 🔗 Visit the Museum
 
-👉 [Click here to explore the virtual museum on Artsteps]([[[https://www.artsteps.com/view/XXXXXXXXXXXX](https://www.artsteps.com/view/67fb80dc11864ff0b66e52e2?currentUser)](https://www.artsteps.com/view/67fb80dc11864ff0b66e52e2)](https://www.artsteps.com/view/67fb80dc11864ff0b66e52e2/?currentUser))  
+👉 [Click here to explore the virtual museum on Artsteps](https://www.artsteps.com/view/67fb80dc11864ff0b66e52e2/?currentUser)  
 
 ---
 
